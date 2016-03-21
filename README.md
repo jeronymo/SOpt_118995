@@ -1,0 +1,1 @@
+﻿Projeto utilizado apenas para demonstrar uma resposta para a questão [118995 do StackOverflow Português](http://pt.stackoverflow.com/questions/118995/formata%c3%a7%c3%a3o-com-union-e-linq-em-c)

@@ -1,0 +1,13 @@
+C:\Users\djpholiveira\Documents\GitHub\SOpt_118995\SOpt_118995\SOpt_118995\bin\Debug\SOpt_118995.exe.config
+C:\Users\djpholiveira\Documents\GitHub\SOpt_118995\SOpt_118995\SOpt_118995\bin\Debug\SOpt_118995.exe
+C:\Users\djpholiveira\Documents\GitHub\SOpt_118995\SOpt_118995\SOpt_118995\bin\Debug\SOpt_118995.pdb
+C:\Users\djpholiveira\Documents\GitHub\SOpt_118995\SOpt_118995\SOpt_118995\bin\Debug\EntityFramework.dll
+C:\Users\djpholiveira\Documents\GitHub\SOpt_118995\SOpt_118995\SOpt_118995\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\djpholiveira\Documents\GitHub\SOpt_118995\SOpt_118995\SOpt_118995\bin\Debug\EntityFramework.xml
+C:\Users\djpholiveira\Documents\GitHub\SOpt_118995\SOpt_118995\SOpt_118995\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\djpholiveira\Documents\GitHub\SOpt_118995\SOpt_118995\SOpt_118995\obj\Debug\SOpt_118995.csprojResolveAssemblyReference.cache
+C:\Users\djpholiveira\Documents\GitHub\SOpt_118995\SOpt_118995\SOpt_118995\obj\Debug\SOpt_118995.exe
+C:\Users\djpholiveira\Documents\GitHub\SOpt_118995\SOpt_118995\SOpt_118995\obj\Debug\SOpt_118995.pdb
+C:\Users\djpholiveira\Documents\GitHub\SOpt_118995\SOpt_118995\bin\Debug\SOpt_118995.exe.config
+C:\Users\djpholiveira\Documents\GitHub\SOpt_118995\SOpt_118995\obj\Debug\SOpt_118995.exe
+C:\Users\djpholiveira\Documents\GitHub\SOpt_118995\SOpt_118995\obj\Debug\SOpt_118995.pdb
